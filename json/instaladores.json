@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pablo Ganin",
+    "celular": "3491 501470",
+    "ciudad": "Ceres"
+    },
+    {
+      "id": 2,
+      "nombre": "Damian Stecheler",
+      "celular": "3491 501463",
+      "ciudad": "Tostado"
+     },
+     {
+      "id": 3,
+      "nombre": "Marcelo Ganin",
+      "celular": "3492 546897",
+      "ciudad": "Rafaela"
+     },
+     {
+      "id": 4,
+      "nombre": "Matias Alonso",
+      "celular": "3493 541244",
+      "ciudad": "San Guillermo"
+     },
+     {
+      "id": 5,
+      "nombre": "Carlos Barrios",
+      "celular": "3492 546523",
+      "ciudad": "Morteros"
+     },
+     {
+      "id": 6,
+      "nombre": "Juan Basualdo",
+      "celular": "3493 548791",
+      "ciudad": "Suardi"
+     }
+
+]
